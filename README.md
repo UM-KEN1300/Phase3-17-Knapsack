@@ -23,6 +23,7 @@ their values and run our Greedy, Backtracking or Genetic Algorithms. As our DLX 
 from these algorithms we have seperate modes for these algorithms.
 
 The algorithmX mode is added which will allow you to run and fill the container using our DLX algorithm with some customable features: -
+
 -Parcel Type: Select whether to fill container with ABC or LPT parcels 
 -Find First Solution: If LPT is selected, select whether or not to stop and display the solution when the first solution is found or 
 to find the best solution according to a predetermined time limit 
